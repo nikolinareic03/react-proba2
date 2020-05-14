@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-proba2/static/css/main.12a05e8f.chunk.css",
+    "main.js": "/react-proba2/static/js/main.ef033987.chunk.js",
+    "main.js.map": "/react-proba2/static/js/main.ef033987.chunk.js.map",
+    "runtime-main.js": "/react-proba2/static/js/runtime-main.bdcb178f.js",
+    "runtime-main.js.map": "/react-proba2/static/js/runtime-main.bdcb178f.js.map",
+    "static/js/2.630ec583.chunk.js": "/react-proba2/static/js/2.630ec583.chunk.js",
+    "static/js/2.630ec583.chunk.js.map": "/react-proba2/static/js/2.630ec583.chunk.js.map",
+    "index.html": "/react-proba2/index.html",
+    "precache-manifest.4da59c59bd612566813c1a6180351aa0.js": "/react-proba2/precache-manifest.4da59c59bd612566813c1a6180351aa0.js",
+    "service-worker.js": "/react-proba2/service-worker.js",
+    "static/css/main.12a05e8f.chunk.css.map": "/react-proba2/static/css/main.12a05e8f.chunk.css.map",
+    "static/js/2.630ec583.chunk.js.LICENSE": "/react-proba2/static/js/2.630ec583.chunk.js.LICENSE",
+    "static/media/split.jpg": "/react-proba2/static/media/split.78f6d100.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdcb178f.js",
+    "static/js/2.630ec583.chunk.js",
+    "static/css/main.12a05e8f.chunk.css",
+    "static/js/main.ef033987.chunk.js"
+  ]
+}
